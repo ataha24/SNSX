@@ -1,2 +1,2 @@
-# 7TPD
-Creating a 7T Parkinson's Disease Template
+# Ultra-high field Parkinson’s disease atlas for deep brain stimulation
+
